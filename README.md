@@ -1,8 +1,11 @@
 # Rata Darius-Marian
 
-Electronics & cybersecurity enthusiast. I create things and give them life —
-microcontrollers, sensors and motors, security labs built to be broken, web
-tools, and the occasional game.
+Electronics & cybersecurity enthusiast. I create things and give them life.
+
+📫 [ratadarius709@gmail.com](mailto:ratadarius709@gmail.com) ·
+🌐 [Portfolio](https://ratadarius.github.io/mysite.github.io/) ·
+📸 [@rata.rst](https://www.instagram.com/rata.rst) ·
+💻 [github.com/RataDarius](https://github.com/RataDarius)
 
 Currently studying Computer and Information Technology at **UPB**
 (Politehnica București), and competing in CTFs and national cybersecurity
@@ -27,10 +30,3 @@ and the kind of bug that hides in plain sight right next to correct code.
 - Building electronics projects alongside security work
 - Competing in CTFs and security competitions
 - Open to internships, junior security or electronics roles
-
-## Contact
-
-📫 [ratadarius709@gmail.com](mailto:ratadarius709@gmail.com) ·
-🌐 [ratadarius.github.io](https://ratadarius.github.io/mysite.github.io/) ·
-📸 [@rata.rst](https://www.instagram.com/rata.rst) ·
-💻 [github.com/RataDarius](https://github.com/RataDarius)
